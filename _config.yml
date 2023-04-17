@@ -1,3 +1,5 @@
+domain: ttchengab.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://ttchengab.github.io 
 # Basic Information
 title: Ta-Ying Cheng
 position: D.Phil. Student
