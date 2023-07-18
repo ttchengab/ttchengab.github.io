@@ -14,8 +14,9 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">3DMiner: Discovering Shapes from Large-Scale Unannotated Image Datasets</div>
     <div class="author"><strong>Ta-Ying Cheng</strong>, Matheus Gadelha, Soren Pirk, Thibault Groueix, Radomir Mech, Andrew Markham, Niki Trigoni</div>
-    <div class="periodical"><em><strong>International Conference on Computer Vision</strong>, 2023. (Paper and demo coming soon)</em></div>
+    <div class="periodical"><em><strong>International Conference on Computer Vision</strong>, 2023.</em></div>
     <div class="links">
+      (Paper and demo coming soon)
       <!-- <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
