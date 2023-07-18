@@ -11,7 +11,7 @@ I am a second year D.Phil. student in Computer Science at the [University of Oxf
 - **3D Computer Vision, 3D Reconstruction, Deep Learning**
 
 ## News
-
+- **[Jul. 2023]** Our paper 3DMiner got accepted into ICCV 2023!
 - **[Dec. 2022]** Defended my [Transfer of Status](https://www.ox.ac.uk/students/academic/guidance/graduate/research/status/DPhil) viva (Examiners: [Prof. Yarin Gal](https://www.cs.ox.ac.uk/people/yarin.gal/website/), [Prof. Ronald Clark](https://www.ron-clark.com)).
 - **[Jul. 2022]** Our paper Meta-Sampler got accepted into ECCV 2022!
 - **[Jun. 2022]** Started my 3-month internship at Adobe Research!
