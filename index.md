@@ -4,11 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a second year D.Phil. student in Computer Science at the [University of Oxford](https://www.ox.ac.uk). My study is co-supervised by Profs. [Niki Trigoni](https://en.wikipedia.org/wiki/Niki_Trigoni) and [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/) and generously supported by the Taiwanese Government Scholarship to Study Abroad, ACE-OPS grant, and St. Catherine's College Overseas Scholarship. Prior to this, I worked as a research assistant in Computer Vision Lab, Academia Sinica, supervised by Profs. [Tyng-Luh Liu](https://www.iis.sinica.edu.tw/pages/liutyng/) and [Hwann-Tzong Chen](https://htchen.github.io). I obtained my B.Eng. Computer Science degree from [HKUST](https://hkust.edu.hk) (First Class Honours), completing multiple projects under the guidance of Profs [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/), [Dit-Yan Yeung](https://sites.google.com/view/dyyeung), and [Long Quan](https://www.cse.ust.hk/~quan/). I am currently doing my second internship at Adobe Research.
+I am a second year D.Phil. student in Computer Science at the [University of Oxford](https://www.ox.ac.uk), co-supervised by Profs. [Niki Trigoni](https://en.wikipedia.org/wiki/Niki_Trigoni) and [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My study is generously supported by the Taiwanese Government Scholarship to Study Abroad, ACE-OPS grant, and St. Catherine's College Overseas Scholarship. Prior to this, I worked as a research assistant in Computer Vision Lab, Academia Sinica, supervised by Profs. [Tyng-Luh Liu](https://www.iis.sinica.edu.tw/pages/liutyng/) and [Hwann-Tzong Chen](https://htchen.github.io). I obtained my B.Eng. in Computer Science from [HKUST](https://hkust.edu.hk) (First Class Honours), completing multiple projects under the guidances of Profs [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/), [Dit-Yan Yeung](https://sites.google.com/view/dyyeung), and [Long Quan](https://www.cse.ust.hk/~quan/). I am currently doing my second internship at Adobe Research.
 
 ## Research Interests
 
-- **3D Computer Vision, 3D Reconstruction, Deep Learning**
+My research interest lies on the bridge between 2D and 3D Understanding. My D.Phil. work mainly builds on two closely-related questions:
+
+1. Can we generate datasets of 3D shape with high fidelity and establish pose correspondences from large-scale in-the-wild 2D images?
+2. Can we use geometric features from 3D space to enhance the capabilities of image generative models?
 
 ## News
 
