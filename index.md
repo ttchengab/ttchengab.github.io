@@ -8,10 +8,12 @@ I am a second year D.Phil. student in Computer Science at the [University of Oxf
 
 ## Research Interests
 
-My research interest lies on the bridge between 2D and 3D Understanding. My D.Phil. work mainly builds on two closely-related questions:
+My main research interest lies on bridging 2D and 3D Understanding. My D.Phil. work mainly builds on two closely-related questions:
 
 1. Can we generate datasets of 3D shape with high fidelity and establish pose correspondences from large-scale in-the-wild 2D images?
 2. Can we use features from 3D space to enhance the capabilities of image generative models?
+
+On the side, I also enjoy working with vision applications that utilize various modalities, such as point clouds and thermal images.
 
 ## News
 
