@@ -16,7 +16,7 @@ My main research interest lies on bridging 2D and 3D Understanding. My D.Phil. w
 On the side, I also enjoy working with vision applications that utilize various modalities, such as point clouds and thermal images.
 
 ## News
-- **[Sep. 2023]** Our paper on Multi-Body SE(3) Equivariance is accepted to NeurIPS 2023!
+- **[Sep. 2023]** Our paper on Multi-Body SE(3) Equivariance is accepted to NeurIPS 2023! Paper and code will be released soon.
 - **[Aug. 2023]** Three papers are accepted to IEEE Transactions on Intelligent Transportation Systems, WACV 2024, and BMVC 2024.
 - **[Jul. 2023]** Our paper 3DMiner got accepted into ICCV 2023!
 - **[May. 2023]** Started my second internship at Adobe Research! (Mentors: [Matheus Gadelha](http://mgadelha.me), [Thibault Groueix](https://imagine.enpc.fr/~groueixt/), [Matthew Fisher](https://techmatt.github.io), and [Radomir Mech](https://research.adobe.com/person/radomir-mech/))
