@@ -59,7 +59,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Pose Adaptive Dual Mixup for Few-Shot Single-View 3D Reconstruction</div>
-    <div class="author"><strong>Ta-Ying Cheng*</strong>, Hsuan-Ru Yang, Niki Trigoni, Hwann-Tzong Chen, Tyng-Luh Liu (*=Equal Contribution)</div>
+    <div class="author"><strong>Ta-Ying Cheng*</strong>, Hsuan-Ru Yang*, Niki Trigoni, Hwann-Tzong Chen, Tyng-Luh Liu (*=Equal Contribution)</div>
     <div class="periodical"><em><strong>AAAI Conference on Artifical Intelligence</strong>, 2022.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2112.12484" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
@@ -100,7 +100,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">ARchitect: Building Interactive Virtual Experiences from Physical Affordances by Bringing Human-in-the-Loop</div>
-    <div class="author">Chuan-En Lin, <strong>Ta-Ying Cheng</strong>, Xiaojuan Ma</div>
+    <div class="author">Chuan-En Lin*, <strong>Ta-Ying Cheng*</strong>, Xiaojuan Ma (*=Equal Contribution)</div>
     <div class="periodical"><em><strong>CHI Conference on Human Factors in Computing Systems</strong>, 2020.</em></div>
     <div class="links">
       <a href="https://chuanenlin.com/papers/architect-chi2020.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
