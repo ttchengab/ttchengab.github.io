@@ -16,7 +16,8 @@
     <div class="author"><strong>Ta-Ying Cheng</strong>, Matheus Gadelha, Soren Pirk, Thibault Groueix, Radomir Mech, Andrew Markham, Niki Trigoni</div>
     <div class="periodical"><em><strong>International Conference on Computer Vision</strong>, 2023.</em></div>
     <div class="links">
-      (Paper and demo coming soon)
+      <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Cheng_3DMiner_Discovering_Shapes_from_Large-Scale_Unannotated_Image_Datasets_ICCV_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="http://ttchengab.github.io/3dminerOfficial/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Website</a>
       <!-- <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
