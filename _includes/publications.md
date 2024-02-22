@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications <span style="font-size:12px;">(Full list on <a href="https://scholar.google.com/citations?user=onX3k7kAAAAJ&hl=en">Google Scholar</a>)</span></h2> 
+<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications <span style="font-size:14px;">(Full list on <a href="https://scholar.google.com/citations?user=onX3k7kAAAAJ&hl=en">Google Scholar</a>)</span></h2> 
 
 <div class="publications">
 <ol class="bibliography">
@@ -90,26 +90,6 @@
     <div class="links">
       <a href="https://arxiv.org/abs/2112.12484" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="https://github.com/ttchengab/PADMix" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
-    </div>
-  </div>
-
-</div>
-
-<br>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/paper_teasers/seqdynamics.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">EuroVIS</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">SeqDynamics: Visual Analytics for Evaluating Online Problem-solving Dynamics</div>
-    <div class="author">Meng Xia, Min Xu, Chuan-En Lin, <strong>Ta-Ying Cheng</strong>, Huamin Qu, Xiaojuan Ma</div>
-    <div class="periodical"><em><strong>EG Conference on Visualization</strong>, 2020.</em></div>
-    <div class="links">
-      <a href="https://www.xiameng.org/EuroVIS2020_SeqDynamics.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
