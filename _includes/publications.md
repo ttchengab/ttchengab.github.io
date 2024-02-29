@@ -8,13 +8,13 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/paper_teasers/C3dW.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Arxiv</abbr>
+    <abbr class="badge">CVPR</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Learning Continuous 3D Words for Text-to-Image Generation</div>
     <div class="author"><strong>Ta-Ying Cheng</strong>, Matheus Gadelha, Thibault Groueix, Matthew Fisher, Radomir Mech, Andrew Markham, Niki Trigoni</div>
-    <div class="periodical"><em><strong>Arxiv</strong>, 2024.</em></div>
+    <div class="periodical"><em><strong>Computer Vision and Patter Recognition (CVPR)</strong>, 2024.</em></div>
     <div class="links">
       <a href="https://ttchengab.github.io/continuous_3d_words/c3d_words.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="https://ttchengab.github.io/continuous_3d_words/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Website</a>
