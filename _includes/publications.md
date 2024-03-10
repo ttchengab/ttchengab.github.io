@@ -7,6 +7,32 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/paper_teasers/gen4gen.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ArXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition</div>
+    <div class="author">Chun-Hsiao Yeh*, <strong>Ta-Ying Cheng*</strong>, He-Yen Hsieh*, Chuan-En Lin, Yi Ma, Andrew Markham, Niki Trigoni, H.T. Kung, Yubei Chen (*=Equal Contribution)</div>
+    <div class="periodical"><em><strong>ArXiv</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2402.15504" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://danielchyeh.github.io/Gen4Gen/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Website</a>
+      <a href="https://github.com/louisYen/Gen4Gen" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    </div>
+  </div>
+
+</div>
+<br>
+  
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/paper_teasers/C3dW.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
   </div>
