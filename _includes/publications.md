@@ -135,8 +135,8 @@
     <div class="author">Chuan-En Lin*, <strong>Ta-Ying Cheng*</strong>, Xiaojuan Ma (*=Equal Contribution)</div>
     <div class="periodical"><em><strong>CHI Conference on Human Factors in Computing Systems</strong>, 2020.</em></div>
     <div class="links">
-      <a href="https://chuanenlin.com/papers/architect-chi2020.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
-      <a href="https://chuanenlin.com/architect/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Website</a>
+      <a href="https://chuanenlin.github.io/papers/architect-chi2020.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://chuanenlin.github.io/architect/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Website</a>
 
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
