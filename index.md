@@ -4,18 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a D.Phil. candidate in Computer Science at the [University of Oxford](https://www.ox.ac.uk), co-supervised by Profs. [Niki Trigoni](https://en.wikipedia.org/wiki/Niki_Trigoni) and [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My study is generously supported by the Taiwanese Government Scholarship to Study Abroad, ACE-OPS grant, and St. Catherine's College Overseas Scholarship. Prior to this, I worked as a research assistant in Computer Vision Lab, Academia Sinica, supervised by Profs. [Tyng-Luh Liu](https://www.iis.sinica.edu.tw/pages/liutyng/) and [Hwann-Tzong Chen](https://htchen.github.io). I obtained my B.Eng. in Computer Science from [HKUST](https://hkust.edu.hk) (First Class Honours), completing multiple projects under the guidances of Profs. [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/), [Dit-Yan Yeung](https://sites.google.com/view/dyyeung), and [Long Quan](https://www.cse.ust.hk/~quan/). I also spent two lovely summers (2022, 2023) interning at Adobe Research.
+I am a D.Phil. candidate in Computer Science at the [University of Oxford](https://www.ox.ac.uk), co-supervised by Profs. [Niki Trigoni](https://en.wikipedia.org/wiki/Niki_Trigoni) and [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My study is generously supported by the Taiwanese Government Scholarship to Study Abroad, ACE-OPS grant, and St. Catherine's College Overseas Scholarship. Prior to this, I worked as a research assistant in Computer Vision Lab, Academia Sinica, supervised by Profs. [Tyng-Luh Liu](https://www.iis.sinica.edu.tw/pages/liutyng/) and [Hwann-Tzong Chen](https://htchen.github.io). I spent two lovely summers (2022, 2023) interning at Adobe Research and am currently a part-time research intern at Stability AI.
 
 ## Research Interests
 
-My main research interest lies on bridging 2D and 3D Understanding. My D.Phil. work mainly builds on two closely-related questions:
-
-1. Can we generate datasets of 3D shape with high fidelity and establish pose correspondences from large-scale in-the-wild 2D images?
-2. Can we use features from 3D space to enhance the capabilities of image generative models?
+My main research interest lies on bridging 2D and 3D Understanding. My D.Phil. work mainly builds on extracting 3D information in the latent space from large image collections to enhance the capabilities of models for generation and reconstruction. So far, I have worked on extracting geometry (3DMiner), illumination and deformable shape changes (Continuous 3D Words), and more recently materials (ZeST).
 
 On the side, I also enjoy working with vision applications that utilize various modalities, such as point clouds and thermal images.
 
 ## News
+- **[Mar. 2024]** Started a part-time internship at Stability AI! (Mentors: [Varun Jampani](https://varunjampani.github.io/), [Mark Boss](https://markboss.me/))
 - **[Feb. 2024]** Our paper Continuous 3D Words got accepted into CVPR 2024! Check out our work [here](http://ttchengab.github.io/continuous_3d_words/)!
 - **[Sep. 2023]** Our paper on Multi-Body SE(3) Equivariance is accepted to NeurIPS 2023!
 - **[Aug. 2023]** Three papers are accepted to IEEE Transactions on Intelligent Transportation Systems, WACV 2024, and BMVC 2024.
