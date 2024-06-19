@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a D.Phil. candidate in Computer Science at the [University of Oxford](https://www.ox.ac.uk), co-supervised by Profs. [Niki Trigoni](https://en.wikipedia.org/wiki/Niki_Trigoni) and [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My study is generously supported by the Taiwanese Government Scholarship to Study Abroad, ACE-OPS grant, and St. Catherine's College Overseas Scholarship. Prior to this, I worked as a research assistant in Computer Vision Lab, Academia Sinica, supervised by Profs. [Tyng-Luh Liu](https://www.iis.sinica.edu.tw/pages/liutyng/) and [Hwann-Tzong Chen](https://htchen.github.io). I spent two lovely summers (2022, 2023) interning at Adobe Research and am currently a part-time research intern at Stability AI.
+I am a D.Phil. candidate in Computer Science at the [University of Oxford](https://www.ox.ac.uk), co-supervised by Profs. [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/) and [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My study is generously supported by the Taiwanese Government Scholarship to Study Abroad, ACE-OPS grant, and St. Catherine's College Overseas Scholarship. 
+I also had the privilege for collaborating closely with [Matheus Gadelha](http://mgadelha.me/) and [Thibault Groueix](https://imagine.enpc.fr/~groueixt/) during my internships at Adobe Research, and [Prafull Sharma](https://prafullsharma.net/) and [Varun Jampani](https://varunjampani.github.io/) during my internship at Stability AI. Prior to my D.Phil., I worked as a research assistant in Computer Vision Lab, Academia Sinica, supervised by Profs. [Tyng-Luh Liu](https://www.iis.sinica.edu.tw/pages/liutyng/) and [Hwann-Tzong Chen](https://htchen.github.io). 
 
 ## Research Interests
 
