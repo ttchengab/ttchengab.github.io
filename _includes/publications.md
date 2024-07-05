@@ -92,7 +92,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">3DMiner: Discovering Shapes from Large-Scale Unannotated Image Datasets</div>
     <div class="author"><strong>Ta-Ying Cheng</strong>, Matheus Gadelha, Soren Pirk, Thibault Groueix, Radomir Mech, Andrew Markham, Niki Trigoni</div>
-    <div class="periodical"><em><strong>International Conference on Computer Vision</strong>, 2023.</em></div>
+    <div class="periodical"><em><strong>International Conference on Computer Vision (ICCV)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Cheng_3DMiner_Discovering_Shapes_from_Large-Scale_Unannotated_Image_Datasets_ICCV_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="http://ttchengab.github.io/3dminerOfficial/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Website</a>
@@ -116,7 +116,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Meta-Sampler: Almost-Univsersal yet Task-Oriented Sampling for Point Clouds</div>
     <div class="author"><strong>Ta-Ying Cheng</strong>, Qingyong Hu, Qian Xie, Niki Trigoni, Andrew Markham</div>
-    <div class="periodical"><em><strong>European Conference on Computer Vision</strong>, 2022.</em></div>
+    <div class="periodical"><em><strong>European Conference on Computer Vision (ECCV)</strong>, 2022.</em></div>
     <div class="links">
       <a href="https://link.springer.com/chapter/10.1007/978-3-031-20086-1_40" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="https://github.com/ttchengab/MetaSampler" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
