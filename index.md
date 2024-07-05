@@ -7,7 +7,7 @@ layout: homepage
 I am a D.Phil. candidate in Computer Science at the [University of Oxford](https://www.ox.ac.uk), co-supervised by Profs. [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/) and [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My study is generously supported by the Taiwanese Government Scholarship to Study Abroad, ACE-OPS grant, and St. Catherine's College Overseas Scholarship. 
 I also had the privilege of collaborating closely with [Matheus Gadelha](http://mgadelha.me/), [Thibault Groueix](https://imagine.enpc.fr/~groueixt/), [Matthew Fisher](https://techmatt.github.io/), [Soren Pirk](https://storage.googleapis.com/pirk.io/index.html), and [Radomir Mech](https://research.adobe.com/person/radomir-mech/) during my internships at Adobe Research, and [Varun Jampani](https://varunjampani.github.io/), [Prafull Sharma](https://prafullsharma.net/), and [Mark Boss](https://markboss.me/) during my internship at Stability AI. Prior to my D.Phil., I worked as a research assistant in Computer Vision Lab, Academia Sinica, supervised by Profs. [Tyng-Luh Liu](https://www.iis.sinica.edu.tw/pages/liutyng/) and [Hwann-Tzong Chen](https://htchen.github.io). 
 
-I will soon be entering the job market. Feel free to contact me for any research opportunities!
+I plan on submitting my thesis in the coming months and will soon be entering the job market. Feel free to contact me for any research opportunities!
 
 ## Research Interests
 
