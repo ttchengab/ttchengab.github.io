@@ -14,7 +14,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">ZeST: Zero-Shot Material Transfer from a Single Image</div>
     <div class="author"><strong>Ta-Ying Cheng</strong>, Prafull Sharma, Andrew Markham, Niki Trigoni, Varun Jampani</div>
-    <div class="periodical"><em><strong>ArXiv</strong>, 2024.</em></div>
+    <div class="periodical"><em><strong>European Conference on Computer Vision (ECCV)</strong>, 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2404.06425" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="https://ttchengab.github.io/zest/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Website</a>
