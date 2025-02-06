@@ -4,10 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a D.Phil. candidate in Computer Science at the [University of Oxford](https://www.ox.ac.uk), co-supervised by Profs. [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/) and [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My study is generously supported by the Taiwanese Government Scholarship to Study Abroad, ACE-OPS grant, and St. Catherine's College Overseas Scholarship. 
+I obtained my D.Phil. in Computer Science at the [University of Oxford](https://www.ox.ac.uk), co-supervised by Profs. [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/) and [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My study is generously supported by the Taiwanese Government Scholarship to Study Abroad, ACE-OPS grant, and St. Catherine's College Overseas Scholarship. 
 I also had the privilege of collaborating closely with [Matheus Gadelha](http://mgadelha.me/), [Thibault Groueix](https://imagine.enpc.fr/~groueixt/), [Matthew Fisher](https://techmatt.github.io/), [Soren Pirk](https://storage.googleapis.com/pirk.io/index.html), and [Radomir Mech](https://research.adobe.com/person/radomir-mech/) during my internships at Adobe Research, and [Varun Jampani](https://varunjampani.github.io/), [Prafull Sharma](https://prafullsharma.net/), and [Mark Boss](https://markboss.me/) during my internship at Stability AI. Prior to my D.Phil., I worked as a research assistant in Computer Vision Lab, Academia Sinica, supervised by Profs. [Tyng-Luh Liu](https://www.iis.sinica.edu.tw/pages/liutyng/) and [Hwann-Tzong Chen](https://htchen.github.io). 
 
-I plan on submitting my thesis in the coming months and will soon be entering the job market. Feel free to contact me for any research opportunities!
 
 ## Research Interests
 
@@ -17,6 +16,7 @@ On the side, I also enjoy working with vision applications that utilize various 
 
 ## News
 
+- **[Jan. 2025]** Defended my viva and obtained D.Phil. status! (Internal Examiner: [Prof. Victor Prisacariu](https://www.robots.ox.ac.uk/~victor//), External Examiner: [Prof. Lourdes Agapito](https://profiles.ucl.ac.uk/40331-lourdes-de-agapito-vicente)). More exciting things coming up!
 - **[Jul. 2024]** Many news in July! I started a internship at Adobe Research London (Mentors: [Chun-Hao Huang](https://research.adobe.com/person/paulchhuang/), [Duygu Ceylan](https://www.duygu-ceylan.com/)), I defended my [Confirmation](https://www.ox.ac.uk/students/academic/guidance/graduate/research/status/DPhil) viva (Examiners: [Prof. Christian Rupprecht](https://chrirupp.github.io/), [Prof. Ronald Clark](https://www.ron-clark.com)), and our paper ZeST got accepted into ECCV 2024!
 - **[Mar. 2024]** Started a part-time internship at Stability AI! (Mentors: [Varun Jampani](https://varunjampani.github.io/), [Mark Boss](https://markboss.me/))
 - **[Feb. 2024]** Our paper Continuous 3D Words got accepted into CVPR 2024! Check out our work [here](http://ttchengab.github.io/continuous_3d_words/)!
