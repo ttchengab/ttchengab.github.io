@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a research scientist at Netflix, working on creating high-quality image generation tools for promotional media.
+I am currently a research scientist at Netflix, working on creating high-quality and controllable image generation tools.
 
 I obtained my D.Phil. in Computer Science at the [University of Oxford](https://www.ox.ac.uk), co-supervised by Profs. [Niki Trigoni](https://www.cs.ox.ac.uk/people/niki.trigoni/) and [Andrew Markham](https://www.cs.ox.ac.uk/people/andrew.markham/). My study is generously supported by the Taiwanese Government Scholarship to Study Abroad, ACE-OPS grant, and St. Catherine's College Overseas Scholarship. 
 
