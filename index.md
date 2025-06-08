@@ -11,12 +11,14 @@ I also had the privilege of collaborating closely with [Matheus Gadelha](http://
 
 ## Research Interests
 
-My main research interest lies on bridging 2D and 3D Understanding. My D.Phil. work mainly builds on extracting 3D information in the latent space from large image collections to enhance the capabilities of models for generation and reconstruction. So far, I have worked on extracting geometry (3DMiner), illumination and deformable shape changes (Continuous 3D Words), and more recently materials (ZeST).
+My main research aims to bridge 2D and 3D Understanding. My work mainly builds on extracting 3D information in the latent space from large image collections to enhance the capabilities of models for generation and reconstruction. So far, I have worked on extracting geometry (3DMiner), illumination and deformable shape changes (Continuous 3D Words), and more recently materials (ZeST, MARBLE).
 
 On the side, I also enjoy working with vision applications that utilize various modalities, such as point clouds and thermal images.
 
 ## News
+- **[Jun. 2025]** MARBLE (CVPR-2025) code is now released. Check [here](https://marblecontrol.github.io) for more!
 - **[Apr. 2025]** Started my role as a research scientist at Netflix!
+- **[Feb. 2025]** MARBLE is accepted into CVPR 2025!
 - **[Jan. 2025]** Defended my viva and obtained D.Phil. status! (Internal Examiner: [Prof. Victor Prisacariu](https://www.robots.ox.ac.uk/~victor//), External Examiner: [Prof. Lourdes Agapito](https://profiles.ucl.ac.uk/40331-lourdes-de-agapito-vicente)). More exciting things coming up!
 - **[Jul. 2024]** Many news in July! I started a internship at Adobe Research London (Mentors: [Chun-Hao Huang](https://research.adobe.com/person/paulchhuang/), [Duygu Ceylan](https://www.duygu-ceylan.com/)), I defended my [Confirmation](https://www.ox.ac.uk/students/academic/guidance/graduate/research/status/DPhil) viva (Examiners: [Prof. Christian Rupprecht](https://chrirupp.github.io/), [Prof. Ronald Clark](https://www.ron-clark.com)), and our paper ZeST got accepted into ECCV 2024!
 - **[Mar. 2024]** Started a part-time internship at Stability AI! (Mentors: [Varun Jampani](https://varunjampani.github.io/), [Mark Boss](https://markboss.me/))
