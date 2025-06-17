@@ -11,12 +11,14 @@ I also had the privilege of collaborating closely with [Matheus Gadelha](http://
 
 ## Research Interests
 
-My main research aims to bridge 2D and 3D Understanding. My work mainly builds on extracting 3D information in the latent space from large image collections to enhance the capabilities of models for generation and reconstruction. So far, I have worked on extracting geometry (3DMiner), illumination and deformable shape changes (Continuous 3D Words), and more recently materials (ZeST, MARBLE).
+Modern generative models excel at generalization but struggle to deliver the fine-grained, precise controls over attributes such as camera or object appearances. In contrast, traditional renderers offer parameter-level manipulation—yet remain confined to their fixed libraries of 3D objects and PBR materials.
 
-On the side, I also enjoy working with vision applications that utilize various modalities, such as point clouds and thermal images.
+My research aims to bring the best of two worlds -- enhancing generative models with intuitive 3D-aware controls without losing any of its generalizability for creative content generation, essentially making them into *flexible* renderers. So far, I have worked on controlling camera/light source/motion movements ([Continuous 3D Words](https://ttchengab.github.io/continuous_3d_words/)), and more recently on material transfer ([ZeST](https://ttchengab.github.io/zest/)), blending, and parameteric control ([MARBLE](https://marblecontrol.github.io)).
+
+*I am currently seeking a research intern for Fall 2025 to join our group at Netflix and work on controllable image/video generation. Feel free to drop me an email if you are interested in related areas!*
 
 ## News
-- **[Jun. 2025]** MARBLE (CVPR-2025) code is now released. Check [here](https://marblecontrol.github.io) for more!
+- **[Jun. 2025]** MARBLE code is now released. Check [here](https://marblecontrol.github.io) for more!
 - **[Apr. 2025]** Started my role as a research scientist at Netflix!
 - **[Feb. 2025]** MARBLE is accepted into CVPR 2025!
 - **[Jan. 2025]** Defended my viva and obtained D.Phil. status! (Internal Examiner: [Prof. Victor Prisacariu](https://www.robots.ox.ac.uk/~victor//), External Examiner: [Prof. Lourdes Agapito](https://profiles.ucl.ac.uk/40331-lourdes-de-agapito-vicente)). More exciting things coming up!
