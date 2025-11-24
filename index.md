@@ -15,9 +15,8 @@ Modern generative models excel at generalization but struggle to deliver the fin
 
 My research aims to bring the best of two worlds -- enhancing generative models with intuitive 3D-aware controls without losing any of its generalizability for creative content generation, essentially making them into *flexible* renderers. So far, I have worked on controlling camera/light source/motion movements ([Continuous 3D Words](https://ttchengab.github.io/continuous_3d_words/)), and more recently on material transfer ([ZeST](https://ttchengab.github.io/zest/)), blending, and parameteric control ([MARBLE](https://marblecontrol.github.io)).
 
-*I am currently seeking a research intern for Fall 2025 to join our group at Netflix and work on controllable image/video generation. Feel free to drop me an email if you are interested in related areas!*
-
 ## News
+- **[Nov. 2025]** All-Angles Bench accepted to AAAI-2026! Check it out [here](https://danielchyeh.github.io/All-Angles-Bench/)
 - **[Jun. 2025]** MARBLE code is now released. Check [here](https://marblecontrol.github.io) for more!
 - **[Apr. 2025]** Started my role as a research scientist at Netflix!
 - **[Feb. 2025]** MARBLE is accepted into CVPR 2025!
