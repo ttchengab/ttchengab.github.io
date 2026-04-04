@@ -15,7 +15,7 @@ My research focuses on building both assistive and agentic tools for complex gra
 
 During my PhD, I mainly worked on creating enhancing generative models with intuitive 3D-aware controls without losing any of its generalizability for creative content generation, essentially making them into *flexible* renderers. Some works include controlling camera/lighting ([Continuous 3D Words](https://ttchengab.github.io/continuous_3d_words/)) and materials ([ZeST](https://ttchengab.github.io/zest/), [MARBLE](https://marblecontrol.github.io)).
 
-More recently, my work has extended VLMs, with a general goal of creating high-level controls over generative models that require world understanding and complex reasoning on object interactions ([VOID](https://void-model.github.io/#)).
+More recently, my work has extended to VLMs, with a general goal of creating high-level controls over generative models that require world understanding and complex reasoning on object interactions ([VOID](https://void-model.github.io/#)).
 
 ## News
 - **[Apr. 2026]** We release VOID: Video Object and Interaction Deletion! Check out our work [here](https://void-model.github.io/#)
