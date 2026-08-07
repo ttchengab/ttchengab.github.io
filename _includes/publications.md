@@ -7,6 +7,28 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/paper_teasers/VOID.gif" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ECCV</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">VOID: Video Object and Interaction Deletion</div>
+    <div class="author">Saman Motamed, William Harvey, Benjamin Klein, Luc Van Gool, Zhuoning Yuan, <strong>Ta-Ying Cheng</strong></div>
+    <div class="periodical"><em><strong>European Conference on Computer Vision (ECCV)</strong>, 2026.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2604.02296" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://void-model.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Website</a>
+      <a href="https://github.com/Netflix/void-model" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+
+</div>
+<br>
+
+
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/paper_teasers/MARBLE.gif" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
   </div>

@@ -18,6 +18,7 @@ During my PhD, I mainly worked on creating enhancing generative models with intu
 More recently, my work has extended to VLMs, with a general goal of creating high-level controls over generative models that require world understanding and complex reasoning on object interactions ([VOID](https://void-model.github.io/#)).
 
 ## News
+- **[Jul. 2026]** VOID and LoGAN are accepted into ECCV 2026! Check out VOID [here](https://void-model.github.io/)!
 - **[Apr. 2026]** We release VOID: Video Object and Interaction Deletion! Check out our work [here](https://void-model.github.io/#)
 - **[Nov. 2025]** All-Angles Bench accepted to AAAI-2026! Check it out [here](https://danielchyeh.github.io/All-Angles-Bench/).
 - **[Apr. 2025]** Started my role as a research scientist at Netflix!
